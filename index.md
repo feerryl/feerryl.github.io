@@ -15,5 +15,5 @@
 - みくじちゃんbot(製作中,slack上でおみくじがひけるbot)
 
 # Contact
-- [Twitter](@re_poze)
-- [Gmail](19n_1100030@nnn.ed.jp)
+- [Twitter](https://twitter.com/re_poze)
+- [Gmail](sora_19n1100030@nnn.ed.jp)
