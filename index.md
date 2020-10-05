@@ -16,4 +16,4 @@
 
 # Contact
 - [Twitter](https://twitter.com/re_poze)
-- [Gmail](sora_19n1100030@nnn.ed.jp)
+- [Gmail](mailto:sora_19n1100030@nnn.ed.jp)
